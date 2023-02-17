@@ -106,11 +106,8 @@ Example:
 > 
 > Institute of Engineering -Technology 
 > 
-> Thu Dau Mot University 
-> 
-> Email: tg_buithanhhung@tdtu.edu.vn 
-> 
-> Website: https://sites.google.com/site/hungthanhbui1980 
+> Thu Dau Mot University
 
->
 > I'm finished At Ton Duc Thang university - Year: 2021
+>
+> But it is not perfect so there are many problems. Be careful if you take it
