@@ -100,7 +100,7 @@ Example:
 #### 1.2 Kết quả
 ![image](https://user-images.githubusercontent.com/58379925/219713880-c155db59-936c-41e1-a0bd-4a833b8de1aa.png)
 
-> This Assignment by Lecture: Bui Thanh Hung 
+> This Assignment created by Lecturer: Bui Thanh Hung 
 > 
 > Director of Data Analytics & Artificial Intelligence Laboratory - DAAI Lab  Director of Artificial Intelligence & Information System Programme  
 > 
