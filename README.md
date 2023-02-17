@@ -101,7 +101,15 @@ Example:
 ![image](https://user-images.githubusercontent.com/58379925/219713880-c155db59-936c-41e1-a0bd-4a833b8de1aa.png)
 
 > This Assignment by Lecture: Bui Thanh Hung 
-> Director of Data Analytics & Artificial Intelligence Laboratory - DAAI Lab  Director of Artificial Intelligence & Information System Programme  Institute of Engineering -Technology 
+> 
+> Director of Data Analytics & Artificial Intelligence Laboratory - DAAI Lab  Director of Artificial Intelligence & Information System Programme  
+> 
+> Institute of Engineering -Technology 
+> 
 > Thu Dau Mot University 
+> 
 > Email: tg_buithanhhung@tdtu.edu.vn 
+> 
 > Website: https://sites.google.com/site/hungthanhbui1980 
+> 
+> I'm finished At Ton Duc Thang university - Year: 2021
